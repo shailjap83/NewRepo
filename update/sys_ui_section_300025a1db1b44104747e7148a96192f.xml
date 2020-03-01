@@ -15,22 +15,8 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_created_on</element>
-            <position>1</position>
-            <sys_created_by>shailja.panthri@snc</sys_created_by>
-            <sys_created_on>2020-03-01 23:13:29</sys_created_on>
-            <sys_id>5120a125db1b44104747e7148a961909</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_snc_sourceapp_test_plaza" sys_domain="global" view="Default view">300025a1db1b44104747e7148a96192f</sys_ui_section>
-            <sys_updated_by>shailja.panthri@snc</sys_updated_by>
-            <sys_updated_on>2020-03-01 23:13:29</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
             <element>sys_updated_on</element>
-            <position>2</position>
+            <position>1</position>
             <sys_created_by>shailja.panthri@snc</sys_created_by>
             <sys_created_on>2020-03-01 23:13:29</sys_created_on>
             <sys_id>d120a125db1b44104747e7148a961909</sys_id>
@@ -44,7 +30,7 @@
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>activity.xml</element>
-            <position>3</position>
+            <position>2</position>
             <sys_created_by>shailja.panthri@snc</sys_created_by>
             <sys_created_on>2020-03-01 23:13:29</sys_created_on>
             <sys_id>5520a125db1b44104747e7148a961909</sys_id>
