@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-03-01 23:10:24</sys_created_on>
+        <sys_id>947f11e1db1b44104747e7148a961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_sourceapp_test_plaza.x_snc_sourceapp.test_plaza_user</sys_name>
+        <sys_package display_value="sourceapp" source="x_snc_sourceapp">351f99a1db1b44104747e7148a96193b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sourceapp">351f99a1db1b44104747e7148a96193b</sys_scope>
+        <sys_security_acl display_value="x_snc_sourceapp_test_plaza">d47f11e1db1b44104747e7148a961952</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_947f11e1db1b44104747e7148a961956</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-03-01 23:10:24</sys_updated_on>
+        <sys_user_role display_value="x_snc_sourceapp.test_plaza_user" name="x_snc_sourceapp.test_plaza_user">0c7f51a1db1b44104747e7148a96191e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
